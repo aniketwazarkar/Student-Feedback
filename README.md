@@ -6,7 +6,7 @@ A Student Feedback Mining System is work to inquire about points and their slant
 <br>
 
 ## PROJECT WORKFLOW
-![outline](flow.PNG)
+![outline](flow.png)
 
 <br>
 ## RESULTS
