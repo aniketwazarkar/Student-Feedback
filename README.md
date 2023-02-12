@@ -11,6 +11,9 @@ A Student Feedback Mining System is work to inquire about points and their slant
 ### Registration 
 <img src="registration.JPG" width="400" height="250" />
 
-![results](login.JPG)
 
-![results](gui.JPG)
+### Login
+<img src="login.JPG" width="100" height="100" />
+
+### GUI
+<img src="gui.JPG" width="100" height="100" />
