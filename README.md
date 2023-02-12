@@ -8,7 +8,8 @@ A Student Feedback Mining System is work to inquire about points and their slant
 <br>
 
 ## WEBSITE LAYOUT
-![results]<img src="registration.JPG" width="400" height="250" />
+### Registration 
+<img src="registration.JPG" width="400" height="250" />
 
 ![results](login.JPG)
 
